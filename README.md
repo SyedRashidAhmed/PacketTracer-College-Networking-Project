@@ -1,7 +1,8 @@
 # PacketTracer-College-Networking-Project
+# This project is designed to showcase the creation of computer networks within a college environment using Cisco Packet Tracer. The project provides hands-on experience in network design, configuration, and troubleshooting.
 College network working model
 Cisco Packet Tracer Networking Project
-This project is designed to showcase the creation of computer networks within a college environment using Cisco Packet Tracer. The project provides hands-on experience in network design, configuration, and troubleshooting.
+
 Key Highlights
 In-depth exploration of OSI and TCP/IP models, emphasizing the functionality of each layer.
 Hands-on experience in topology design, configuration, and subnetting, utilizing routers, switches, and access points.
